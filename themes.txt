@@ -1,0 +1,53 @@
+Equivalence principle
+	Faller
+	Eotwash
+	MicroSCOPE
+	
+Gravity and particle physics
+	Kapner particle paper
+	Antimatter falls?
+	Chameleons
+	
+	
+The gravitational constant, big G
+	Cavendish
+	Gundlach
+	Schlamminger
+
+Precision tests of GR (I)
+Precision tests of GR (II)
+	Shapiro delay
+	Hulse-Taylor binary pulsar
+	Redshift through clocks
+	Pound-Rebka
+		Apparent Weight of Photons
+		http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.4.337
+	Cassini missions
+	Lunar Laser Ranging
+	Ternary GR system
+	
+Terrestrial gravitational wave detection (e.g. aLIGO, ET)
+	Weber's detection paper
+	GW detection paper
+
+Space-based gravitational wave detection (e.g. LISA, PulsarTiming, BBO)
+	NanoGrav papers
+	LISA
+
+Gravitational-wave sources (I)
+Gravitational-wave sources (II)
+	Discrete:
+	Black hole mergers
+	Neutron Star mergers
+	Continuous-wave sources
+	Supernovae
+	
+	Stochastic:
+	Inflationary background
+	White-dwarf background
+	
+Astrophysical observation:
+Gravitational lensing? Supermassive black holes?
+	Optical evidence for black hole ISCOs
+	Sag A papers
+	MACHO limits

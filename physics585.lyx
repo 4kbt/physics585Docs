@@ -1,0 +1,552 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Physics 585 – Testing Gravity – Autumn 2016
+\end_layout
+
+\begin_layout Author
+Coordinator/instructor: Charlie Hagedorn ( cah49@uw.edu )
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename Alex_Honnold,_Heaven.jpg
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+\align center
+"Of these four forces, there's one we don't really understand." "Is it the
+ weak force or the strong--" "It's gravity." – Randall Munroe, XKCD 1489.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size tiny
+Photo: 
+\begin_inset CommandInset href
+LatexCommand href
+name "CC-BY-SA 4.0, Sean McCoy"
+target "https://en.wikipedia.org/wiki/Free_solo_climbing#/media/File:Alex_Honnold,_Heaven.jpg"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Description:
+\end_layout
+
+\begin_layout Standard
+A gravity-themed journal-club course that explores experimental tests of
+ gravity, the search for gravitational waves, and the wide interface between
+ gravity and astrophysics.
+ Participants will select and present papers of timely or historical interest.
+\end_layout
+
+\begin_layout Subsubsection*
+Time:
+\end_layout
+
+\begin_layout Standard
+Weekly, time/day determined by September 19.
+ Please fill in our 
+\begin_inset CommandInset href
+LatexCommand href
+name "POLL"
+target "http://whenisgood.net/CENPAJournalClubAutumn2016"
+
+\end_inset
+
+ to vote!
+\end_layout
+
+\begin_layout Subsubsection*
+Credit:
+\end_layout
+
+\begin_layout Standard
+This is an ungraded course for one credit.
+ Students attending for credit will be required to present one paper and
+ turn in one written question per week prior to each week's discussion.
+\end_layout
+
+\begin_layout Subsection*
+Schedule, Possible Papers:
+\end_layout
+
+\begin_layout Standard
+The schedule below is approximate and updated frequently.
+ Each week's presenter may choose a paper from the suggestions below or
+ select a related paper.
+ If you'd like to present for a particular week, or if there's a paper you'd
+ like to see added, please email Charlie.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Week 1 (Oct.
+ 3-7): Introduction: Equivalence Principle
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "The MICROSCOPE experiment, ready for the in-orbit test of the equivalence principle"
+target "http://iopscience.iop.org/article/10.1088/0264-9381/29/18/184010/meta"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "Galilean test for the fifth force"
+target "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.59.609"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Rotating torsion balances:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "Experimental bounds on interactions mediated by ultralow-mass bosons"
+target "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.63.2705"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "Test of the Equivalence Principle Using a Rotating Torsion Balance"
+target "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.100.041101"
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "The equivalence of inertial and passive gravitational mass"
+target "http://adsabs.harvard.edu/abs/1964AnPhy..26..442R"
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Week 2 (Oct.
+ 10-14): Gravitational Waves at LIGO: GW150914 and GW151226
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "Observation of Gravitational Waves from a Binary Black Hole Merger"
+target "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "GW151226: Observation of Gravitational Waves from a 22-Solar-Mass Binary Black Hole Coalescence"
+target "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.241103"
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Week 3 (Oct.
+ 17-21): Numerical Relativity: Punctures
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "Evolution of Binary Black-Hole Spacetimes"
+target "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.95.121101"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "Gravitational Wave Extraction from an Inspiraling Configuration of Merging Black Holes"
+target "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.96.111102"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "Accurate Evolutions of Orbiting Black-Hole Binaries without Excision"
+target "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.96.111101"
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\emph on
+Rainer Weiss LIGO Physics colloquium: October 24, public talk October 25
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Week 4 (Oct.
+ 24-28): Gravitational-wave sources (I)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Discrete:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Black Holes
+\end_layout
+
+\begin_layout Itemize
+Neutron Stars
+\end_layout
+
+\begin_layout Itemize
+White-dwarf binaries
+\end_layout
+
+\begin_layout Itemize
+Supernovae
+\end_layout
+
+\begin_layout Itemize
+Continuous wave sources
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Stochastic:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Inflationary/big-bang background
+\end_layout
+
+\begin_layout Itemize
+White dwarf background
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Week 5 (Oct.
+ 31 - Nov 4): Gravitational-wave sources (II)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+See previous week
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Week 6 (Nov.
+ 7-11): Space-based gravitational wave detection
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+NanoGrav Pulsar Timing
+\end_layout
+
+\begin_layout Itemize
+LISA
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Week 7 (Nov.
+ 14-18): Precision Tests of GR (I)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Shapiro delay
+\end_layout
+
+\begin_layout Itemize
+Hulse-Taylor binary pulsar
+\end_layout
+
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "Test of Relativistic Gravitation with a Space-Borne Hydrogen Maser"
+target "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.45.2081"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "Pound-Rebka: Apparent Weight of Photons"
+target "http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.4.337 "
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Cassini missions
+\end_layout
+
+\begin_layout Itemize
+Lunar Laser Ranging
+\end_layout
+
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "A millisecond pulsar in a stellar triple system"
+target "https://arxiv.org/abs/1401.0535"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Bending of starlight
+\end_layout
+
+\begin_layout Itemize
+GR Constraints from GW150914
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Week 8 (Nov.
+ 21-25): Precision Tests of GR (II)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+See previous week
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Week 9 (Nov.
+ 28-Dec.
+ 2): Gravity and Astrophysics
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Optical evidence for black holes (and ISCOs!)
+\end_layout
+
+\begin_layout Itemize
+Dynamics at the center of the milky way
+\end_layout
+
+\begin_layout Itemize
+MACHO limits
+\end_layout
+
+\begin_layout Itemize
+Intergalactic voids as tests of GR and dark matter
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Week 10 (Dec.
+ 5-9): Gravity and particle physics
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Does antimatter fall?
+\end_layout
+
+\begin_layout Itemize
+Weighing an electron
+\end_layout
+
+\begin_layout Itemize
+Kapner particle paper
+\end_layout
+
+\begin_layout Itemize
+Chameleons
+\end_layout
+
+\begin_layout Itemize
+Time-varying equivalence-principle violation
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Sound awesome? Great! Sign up for the class and 
+\begin_inset CommandInset href
+LatexCommand href
+name "vote in our scheduling poll!"
+target "http://whenisgood.net/CENPAJournalClubAutumn2016"
+
+\end_inset
+
+ 
+\end_layout
+
+\end_body
+\end_document
