@@ -160,6 +160,11 @@ The schedule below is approximate and updated frequently.
  like to see added, please email Charlie.
 \end_layout
 
+\begin_layout Standard
+If we meet on Wednesday, Thursday, or Friday, the topics in weeks 1-8 will
+ be covered one week earlier to accommodate Thanksgiving.
+\end_layout
+
 \begin_layout Itemize
 
 \series bold
@@ -265,7 +270,7 @@ target "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.241103"
 
 \series bold
 Week 3 (Oct.
- 17-21): Numerical Relativity: Punctures
+ 17-21): Numerical Relativity
 \end_layout
 
 \begin_deeper
@@ -316,9 +321,16 @@ Week 4 (Oct.
  24-28): Gravitational-wave sources (I)
 \end_layout
 
+\begin_layout Itemize
+
+\series bold
+Week 5 (Oct.
+ 31 - Nov 4): Gravitational-wave sources (II)
+\end_layout
+
 \begin_deeper
 \begin_layout Itemize
-Discrete:
+Discrete GW events:
 \end_layout
 
 \begin_deeper
@@ -344,7 +356,7 @@ Continuous wave sources
 
 \end_deeper
 \begin_layout Itemize
-Stochastic:
+Stochastic GWs:
 \end_layout
 
 \begin_deeper
@@ -357,19 +369,6 @@ White dwarf background
 \end_layout
 
 \end_deeper
-\end_deeper
-\begin_layout Itemize
-
-\series bold
-Week 5 (Oct.
- 31 - Nov 4): Gravitational-wave sources (II)
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-See previous week
-\end_layout
-
 \end_deeper
 \begin_layout Itemize
 
@@ -395,9 +394,34 @@ Week 7 (Nov.
  14-18): Precision Tests of GR (I)
 \end_layout
 
+\begin_layout Itemize
+
+\series bold
+Week 8 (Nov.
+ 21-25): Precision Tests of GR (II)
+\end_layout
+
 \begin_deeper
 \begin_layout Itemize
-Shapiro delay
+\begin_inset CommandInset href
+LatexCommand href
+name "Fourth Test of General Relativity: Preliminary Results"
+target "http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.20.1265"
+
+\end_inset
+
+ (Shapiro Delay)
+\end_layout
+
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "A test of general relativity using radio links with the Cassini spacecraft"
+target "http://www.nature.com/nature/journal/v425/n6956/abs/nature01997.html"
+
+\end_inset
+
+ (Shapiro Delay)
 \end_layout
 
 \begin_layout Itemize
@@ -409,6 +433,17 @@ Hulse-Taylor binary pulsar
 LatexCommand href
 name "Test of Relativistic Gravitation with a Space-Borne Hydrogen Maser"
 target "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.45.2081"
+
+\end_inset
+
+ (Gravity Probe A)
+\end_layout
+
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "Gravity Probe B: Final Results of a Space Experiment to Test General Relativity"
+target "http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.106.221101"
 
 \end_inset
 
@@ -427,10 +462,6 @@ target "http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.4.337 "
 \end_layout
 
 \begin_layout Itemize
-Cassini missions
-\end_layout
-
-\begin_layout Itemize
 Lunar Laser Ranging
 \end_layout
 
@@ -446,24 +477,22 @@ target "https://arxiv.org/abs/1401.0535"
 \end_layout
 
 \begin_layout Itemize
-Bending of starlight
+Precession of Mercury
 \end_layout
 
 \begin_layout Itemize
-GR Constraints from GW150914
+Light deflection and asteroid tracking with GAIA
 \end_layout
 
-\end_deeper
 \begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "Tests of General Relativity with GW150914"
+target "http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.221101"
 
-\series bold
-Week 8 (Nov.
- 21-25): Precision Tests of GR (II)
-\end_layout
+\end_inset
 
-\begin_deeper
-\begin_layout Itemize
-See previous week
+
 \end_layout
 
 \end_deeper
@@ -481,7 +510,7 @@ Optical evidence for black holes (and ISCOs!)
 \end_layout
 
 \begin_layout Itemize
-Dynamics at the center of the milky way
+Dynamics at the center of the Milky Way
 \end_layout
 
 \begin_layout Itemize
@@ -514,30 +543,28 @@ Kapner particle paper
 \end_layout
 
 \begin_layout Itemize
+Extra dimensions
+\end_layout
+
+\begin_layout Itemize
 Chameleons
 \end_layout
 
 \begin_layout Itemize
-Time-varying equivalence-principle violation
-\end_layout
-
-\begin_layout Standard
-\begin_inset Separator plain
-\end_inset
-
-
+Time-varying equivalence-principle violation as a dark-matter search
 \end_layout
 
 \end_deeper
-\begin_layout Standard
-\begin_inset Separator plain
+\begin_layout Section*
+Sound awesome? Great! 
+\begin_inset CommandInset href
+LatexCommand href
+name "Sign up for the class"
+target "https://sdb.admin.uw.edu/timeschd/uwnetid/sln.asp?QTRYR=AUT+2016&SLN=23646"
+
 \end_inset
 
-
-\end_layout
-
-\begin_layout Section*
-Sound awesome? Great! Sign up for the class and 
+ and 
 \begin_inset CommandInset href
 LatexCommand href
 name "vote in our scheduling poll!"
