@@ -122,20 +122,13 @@ A gravity-themed journal-club course that explores experimental tests of
 \end_layout
 
 \begin_layout Subsubsection*
-Time:
+Time/Location:
 \end_layout
 
 \begin_layout Standard
-Weekly, time/day determined by September 19.
- Please fill in our 
-\begin_inset CommandInset href
-LatexCommand href
-name "POLL"
-target "http://whenisgood.net/CENPAJournalClubAutumn2016"
-
-\end_inset
-
- to vote!
+Wednesdays, 2 pm.
+ CENPA (North Physics Lab) conference room, Room 178.
+ It's directly inside the front entrance.
 \end_layout
 
 \begin_layout Subsubsection*
@@ -168,11 +161,27 @@ If we meet on Wednesday, Thursday, or Friday, the topics in weeks 1-8 will
 \begin_layout Itemize
 
 \series bold
-Week 1 (Oct.
- 3-7): Introduction: Equivalence Principle
+Week 1 (Sept.
+ 28): Introduction: Equivalence Principle - Charlie Hagedorn
 \end_layout
 
 \begin_deeper
+\begin_layout Itemize
+Paper to read: 
+\begin_inset CommandInset href
+LatexCommand href
+name "MICROSCOPE summary"
+target "https://microscope3.sciencesconf.org/conference/microscope3/pages/version_publiee.pdf"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+For the interested reader:
+\end_layout
+
 \begin_layout Itemize
 \begin_inset CommandInset href
 LatexCommand href
@@ -239,7 +248,7 @@ target "http://adsabs.harvard.edu/abs/1964AnPhy..26..442R"
 
 \series bold
 Week 2 (Oct.
- 10-14): Gravitational Waves at LIGO: GW150914 and GW151226
+ 5): Gravitational Waves at LIGO: GW150914 and GW151226
 \end_layout
 
 \begin_deeper
@@ -270,7 +279,7 @@ target "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.241103"
 
 \series bold
 Week 3 (Oct.
- 17-21): Numerical Relativity
+ 12): Numerical Relativity
 \end_layout
 
 \begin_deeper
@@ -318,14 +327,14 @@ Rainer Weiss LIGO Physics colloquium: October 24, public talk October 25
 
 \series bold
 Week 4 (Oct.
- 24-28): Gravitational-wave sources (I)
+ 19): Gravitational-wave sources (I)
 \end_layout
 
 \begin_layout Itemize
 
 \series bold
 Week 5 (Oct.
- 31 - Nov 4): Gravitational-wave sources (II)
+ 26): Gravitational-wave sources (II)
 \end_layout
 
 \begin_deeper
@@ -374,7 +383,7 @@ White dwarf background
 
 \series bold
 Week 6 (Nov.
- 7-11): Space-based gravitational wave detection
+ 2): Space-based gravitational wave detection
 \end_layout
 
 \begin_deeper
@@ -391,14 +400,14 @@ LISA
 
 \series bold
 Week 7 (Nov.
- 14-18): Precision Tests of GR (I)
+ 9): Precision Tests of GR (I)
 \end_layout
 
 \begin_layout Itemize
 
 \series bold
 Week 8 (Nov.
- 21-25): Precision Tests of GR (II)
+ 16): Precision Tests of GR (II)
 \end_layout
 
 \begin_deeper
@@ -500,8 +509,7 @@ target "http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.221101"
 
 \series bold
 Week 9 (Nov.
- 28-Dec.
- 2): Gravity and Astrophysics
+ 30): Gravity and Astrophysics
 \end_layout
 
 \begin_deeper
@@ -526,7 +534,7 @@ Intergalactic voids as tests of GR and dark matter
 
 \series bold
 Week 10 (Dec.
- 5-9): Gravity and particle physics
+ 7): Gravity and particle physics
 \end_layout
 
 \begin_deeper
@@ -564,15 +572,7 @@ target "https://sdb.admin.uw.edu/timeschd/uwnetid/sln.asp?QTRYR=AUT+2016&SLN=236
 
 \end_inset
 
- and 
-\begin_inset CommandInset href
-LatexCommand href
-name "vote in our scheduling poll!"
-target "http://whenisgood.net/CENPAJournalClubAutumn2016"
-
-\end_inset
-
- 
+!
 \end_layout
 
 \end_body
