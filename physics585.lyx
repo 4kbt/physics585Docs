@@ -348,19 +348,59 @@ Black Holes
 \end_layout
 
 \begin_layout Itemize
-Neutron Stars
+\begin_inset CommandInset href
+LatexCommand href
+name "Advanced LIGO O1 Neutron Star Limits"
+target "https://arxiv.org/pdf/1607.07456v1.pdf"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
-White-dwarf binaries
+\begin_inset CommandInset href
+LatexCommand href
+name "LISA verification binaries"
+target "https://arxiv.org/pdf/astro-ph/0605227v1.pdf"
+
+\end_inset
+
+, 
+\begin_inset CommandInset href
+LatexCommand href
+name "LISA verification binaries #2"
+target "http://www.apc.univ-paris7.fr/~beckmann/Proceedings/Kilic.pdf"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
-Supernovae
+Supernovae/Burst Searches
 \end_layout
 
 \begin_layout Itemize
-Continuous wave sources
+\begin_inset CommandInset href
+LatexCommand href
+name "LVC limits on continuous wave sources"
+target "https://arxiv.org/abs/1606.09619"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "Crab/Vela Pulsar spindown limits"
+target "https://journals.aps.org/prd/abstract/10.1103/PhysRevD.91.022004"
+
+\end_inset
+
+
 \end_layout
 
 \end_deeper
@@ -370,7 +410,14 @@ Stochastic GWs:
 
 \begin_deeper
 \begin_layout Itemize
-Inflationary/big-bang background
+\begin_inset CommandInset href
+LatexCommand href
+name "NanoGrav searches for gravitational-wave background"
+target "https://arxiv.org/abs/1508.03024"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
@@ -522,11 +569,25 @@ Dynamics at the center of the Milky Way
 \end_layout
 
 \begin_layout Itemize
-MACHO limits
+\begin_inset CommandInset href
+LatexCommand href
+name "Did LIGO detect dark matter?"
+target "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.201301"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
-Intergalactic voids as tests of GR and dark matter
+\begin_inset CommandInset href
+LatexCommand href
+name "Intergalactic voids as tests of GR and dark matter"
+target "https://arxiv.org/abs/1602.01784"
+
+\end_inset
+
+
 \end_layout
 
 \end_deeper
@@ -539,15 +600,36 @@ Week 10 (Dec.
 
 \begin_deeper
 \begin_layout Itemize
-Does antimatter fall?
+\begin_inset CommandInset href
+LatexCommand href
+name "Does antimatter fall?"
+target "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.66.850"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
-Weighing an electron
+\begin_inset CommandInset href
+LatexCommand href
+name "Weighing an electron"
+target "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.19.1049"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
-Kapner particle paper
+\begin_inset CommandInset href
+LatexCommand href
+name "Kapner particle paper"
+target "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.131104"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
@@ -559,7 +641,14 @@ Chameleons
 \end_layout
 
 \begin_layout Itemize
-Time-varying equivalence-principle violation as a dark-matter search
+\begin_inset CommandInset href
+LatexCommand href
+name "Time-varying equivalence-principle violation as a dark-matter search"
+target "https://journals.aps.org/prd/abstract/10.1103/PhysRevD.93.075029"
+
+\end_inset
+
+
 \end_layout
 
 \end_deeper
